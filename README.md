@@ -107,7 +107,7 @@ Actual recommended steps for lubing:
 1. Now lube the stem. If brush lubing, hold the part of the stem that looks like a + with your fingers or a gripping tool.
     1. If you're lubing linear switches, you can apply a thin layer of lube to all of the surfaces: sides, front, back, legs, pole.
     1. If you're lubing tactile switches and you want to preserve tactility, just lube the sides and the pole.
-1. Place the stem in the spring, with the legs oriented toward the side of the bottom housing with the metal leaf.
+1. Place the stem pole in the spring, with the legs oriented toward the side of the bottom housing with the metal leaf.
 1. If you're going to use switch films, NOW is the right time to place them. Align them with the outer border of the bottom housing, one in each switch. Tweezers are really helpful here!
 1. Finally, lube the side rails of the top housing. Place the top housing over the stem/spring/bottom housing combo and press down until all side tabs click. (Two tabs on Kailh style switches; four tabs for other MX style switches.) It's recommended you also press down on the stem to depress the spring at the same time, to help with top-bottom alignment.
 
