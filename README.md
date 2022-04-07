@@ -101,7 +101,7 @@ Actual recommended steps for lubing:
 1. Do any bag/tub lubing you plan to do.
 1. Now do the rest of your lubing.
     1. Some people like to do the switch-by-switch approach of doing all four components for one switch, putting it back together, then moving onto the next switch.
-    1. I prefer to do all of the same type of piece, then the next piece, etc.
+    1. I prefer to do bag lube my springs, then do all of the bottom housings, then all the stems, then all the top housings and reassemble them all at the end. I've heard others in the hobby say this method is faster for them, but I can't confirm that's true. It's just what feels better to me.
 1. No matter which big-picture approach you use, bottom to top works best. Start by lubing the rails of the bottom housing. Lightly lube the inside and outside of the shaft in the middle. If you're lubing linear switches that have a lot of leaf ping, you can also lube the metal leaf. (Lubing the leaf not recommended for tactile switches.)
 1. Next deal with your spring. If you bag/tub lubed your springs in step 2, place one already-lubed spring from the bag/tub in each bottom housing. If you're brush lubing or donut dipping, lube each spring as described in the method above, then place it in a bottom housing as you finish it.
 1. Now lube the stem. If brush lubing, hold the part of the stem that looks like a + with your fingers or a gripping tool.
