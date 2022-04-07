@@ -4,7 +4,7 @@ v0.1 April 2022: No pictures or video links yet.
 
 ## Anatomy of a switch
 
-Before we get into it, let's take apart one switch so you can understand the terms used when talking about switches throughout the rest of this guide.
+Before we get into it, let's take apart one MX-compatible switch so you can understand the terms used when talking about switches throughout the rest of this guide.
 
 Top, bottom, spring, stem
 
@@ -40,7 +40,7 @@ Here are some other (optional) helpful tools:
 
 ## What kind of lube should I buy?
 
-First, all the silly things I've heard people say "I don't want to buy real lube, can I use X to lube my switches?"  The answer is NO.  No butter. No olive oil. No vegetable oil. No spray lube. No vaseline. You are trying to lubricate plastic-on-plastic and metal-on-plastic connections. You need to avoid anything that corrodes metal or melts plastic over time.
+First, I've heard people say "I don't want to buy real lube, can I use X to lube my switches?"  The answer is NO.  No butter. No olive oil. No vegetable oil. No spray lube. No vaseline. You are trying to lubricate plastic-on-plastic and metal-on-plastic connections. You need to avoid anything that corrodes metal or melts plastic over time.
 
 Here are the most commonly recommended lubes for mechanical keyboard switches:
 * Krytox 205g0
@@ -54,7 +54,7 @@ Here are the most commonly recommended lubes for mechanical keyboard switches:
 
 I'm sure there are other brands that are OK for switch lubing but I don't know what they are.
 
-## That didn't answer my question. I asked for one recommendation and I got 7 options. Which ONE should I buy?
+## That didn't answer my question. I asked for one recommendation and I got 8 options. Which ONE should I buy?
 
 The correct answer is: whichever one you like the feel of best.  But that's a mean answer to give to someone who has no idea what they want or like yet. So here are some guidelines to help you decide what to try first.
 
@@ -83,3 +83,32 @@ https://www.alexotos.com/keyboard-vendor-list/
 
 I am located in the US, and I personally recommend 3dkeebs, dangkeebs, and divinikey for lube and other switch modification supplies.
 
+## OK, I have all my supplies. Now what do I do?
+
+Set aside a few hours for lubing all your switches. Put on some music or some TV if you need background entertainment.  The amount of time it will actually take depends on your speed (duh) but also how many switches you're trying to lube. Lubing switches for a 40% board will obviously be a lot faster than lubing switches for a TKL or an 1800.
+
+Here are a few general methods for switch lubing:
+* Brush lubing. Use your thin paintbrush to spread a thin layer of lube evenly across the surface you are lubing. Thin = you should be able to tell it's there when you look at it, but just barely. It shouldn't be a completely opaque layer.
+    * When brush lubing stems or springs, a gripping tool or a set of tweezers is very handy!
+* Donut dipping. For springs. With your lube in a tub or on a small surface, holding one end of a spring with your fingers / a gripping tool / tweezers, dip the other end of the spring into the lube until it covers the tightly coiled part at the bottom of the spring. Pull it out of the lube. If there's a lot, you might need to wipe some off. If the lube is covering the hole at the bottom of the spring, blow on it to make sure the hole in the spring is cleared.  The idea here is that the lubed end goes in the bottom of the switch, and as you press the switch more and more, it will compress down to the lube and then spread evenly over the switch.
+* Bag lubing. For springs. Put all of your springs in a sealable plastic bag. Put approximately one drop of Krytox 105 or 106 oil in the bag for every 10 switches. Seal the bag and shake until the oil is evenly distributed.
+* Tub lubing. For either springs or stems. Put all your stems/springs in a small tub with a lid. Use your brush or another small instrument to smear some lube on the sides of the tub. (This will work with thicker lubes too, not just oils.) Put the lid on the tub and shake until the lube is evenly distributed.
+
+With all of these methods, **BE CAREFUL NOT TO OVERLUBE**. You can always add more if you find the switches are still scratchy or pingy or don't feel as smooth as you'd like. But it is a huge pain to have to thoroughly clean all the components and then start over from scratch because there's too much lube.
+
+Actual recommended steps for lubing:
+1. Open your switches one by one. Place the 4 components - spring, stem, top housing, bottom housing - into your lube station, or in to separate dishes / bowls / piles.
+1. Do any bag/tub lubing you plan to do.
+1. Now do the rest of your lubing.
+    1. Some people like to do the switch-by-switch approach of doing all four components for one switch, putting it back together, then moving onto the next switch.
+    1. I prefer to do all of the same type of piece, then the next piece, etc.
+1. No matter which big-picture approach you use, bottom to top works best. Start by lubing the rails of the bottom housing. If you're lubing linear switches that have a lot of leaf ping, you can also lube the leaf.
+1. Next lube your spring (if you haven't already). If you're bag/tub lubing, place one spring from the bag/tub in each bottom housing. If you're brush lubing or donut dipping, lube each spring then place it in a bottom housing as you finish it.
+1. Now lube the stem. If brush lubing, hold the part of the stem that looks like a + with your fingers or a gripping tool.
+    1. If you're lubing linear switches, you can apply a thin layer of lube to all of the surfaces: sides, front, back, legs, pole.
+    1. If you're lubing tactile switches and you want to preserve tactility, just lube the sides and the pole.
+1. Place the stem in the spring, with the legs oriented toward the side of the bottom housing with the metal leaf.
+1. If you're going to use switch films NOW is the right time to place them. Align them with the outer border of the bottom housing. Tweezers are really helpful here!
+1. Finally, lube the side rails of the top housing. Place the top housing on top over the stem/spring/bottom housing combo and press down until all side tabs click. (Two tabs on Kailh style switches; four tabs for other MX style switches.)
+
+The first time you lube switches, I recommend doing one or two start-to-finish, then testing them out and comparing them to stock switches before doing the rest. This way, you can tell what a difference your hard work will make. You can identify if the switch feels sluggish (overlubed) or still has scratch/ping or isn't smooth enough (underlubed). Adjust until you get to a good level of lubing, then do that for all the rest of your switches.
