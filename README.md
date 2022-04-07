@@ -26,21 +26,21 @@ Here are the bare minimum supplies:
 1. A small-tipped instrument to spread the lube 
     1. I use size 0 and 3/0 regular paintbrushes you can get at any art store.
 1. Something to open the switches 
-    1. There are things called switch openers specifically designed to open the two main types of mechanical keyboard switches, but you could also use tweezers or a small flathead screwdriver. Some people have even said they open it using their fingernails, but that sounds unnecessarily painful/tedious to me.
+    1. There are things called switch openers specifically designed to open the two main types of MX-compatible mechanical keyboard switches, but you could also use tweezers or a small flathead screwdriver. Some people have even said they open it using their fingernails, but that sounds unnecessarily painful/tedious to me.
 1. A comfortable, well lit area
 
 Here are some other (optional) helpful tools:
 1. Tweezers. I prefer ones with angled (not pointed) ends for keyboard work. In this context, they're really helpful for holding, separating, and placing springs, stems, and films. 
 1. Something to hold your disassembled switch parts
-    1. There are things called "lube stations" that are sold on lots of keyboard shops and etsy shops. I have a nice wooden one I bought and like to use. But a lot of people use small plates and bowls to hold like-pieces while they're working. You could even just have piles on a clean desk tbh.
+    1. There are things called "lube stations" that are sold on lots of keyboard shops and etsy shops. I have a nice wooden one I bought and like to use. But a lot of people use small plates and bowls to hold the components while they're working. You could even just have piles on a clean desk tbh.
     1. If you're going to bag-lube or tub-lube any pieces (more on what that means below) then you need a small seal-able plastic bag and/or a small plastic container with a lid.
 1. A "gripping" tool to hold your stems while you lube them. There are 4-prong holders, there are lead pencil holders, there are probably other kinds of holders that would work. Sold in most keyboard shops.
 1. Switch films. If the top of the switch housing feels loose when attached to the bottom, with a lot of wiggle from side to side, OR if the stem wobbles a lot in a vertical or horizontal direction inside the top of the housing, your switches might benefit from switch films. These are little foam or plastic frames that go in between the top and the bottom housing to get a tighter fit.
-1. Multiple types of lube. Some people different lube for the springs than the rest of the switch, different lube for stabs vs switches, or different lubes for different types of switches. This is optional, but if you aren't sure what you like, the best way to find out what you like is to try different types for yourself. We who are experienced can make recommendations, but like everything else in this hobby, the "perfect" switch lubing always comes down to personal preference.
+1. Multiple types of lube. Some people use different lube for the springs than the rest of the switch, different lube for stabs vs switches, or different lubes for different types of switches. This is optional, but if you aren't sure what you like, the best way to find out what you like is to try different types for yourself. We who are experienced can make recommendations, but like everything else in this hobby, the "perfect" switch lubing always comes down to personal preference.
 
 ## What kind of lube should I buy?
 
-First, I've heard people say "I don't want to buy real lube, can I use X to lube my switches?"  The answer is NO.  No butter. No olive oil. No vegetable oil. No spray lube. No vaseline. You are trying to lubricate plastic-on-plastic and metal-on-plastic connections. You need to avoid anything that corrodes metal or melts plastic over time.
+First, I've heard people say "I don't want to buy real lube, can I use X to lube my switches?"  The answer is NO.  No butter. No olive oil. No vegetable oil. No spray lube. No vaseline. No WD-40. You are trying to lubricate plastic-on-plastic and metal-on-plastic connections. You need to avoid anything that corrodes metal or melts plastic over time.
 
 Here are the most commonly recommended lubes for mechanical keyboard switches:
 * Krytox 205g0
@@ -58,7 +58,7 @@ I'm sure there are other brands that are OK for switch lubing but I don't know w
 
 The correct answer is: whichever one you like the feel of best.  But that's a mean answer to give to someone who has no idea what they want or like yet. So here are some guidelines to help you decide what to try first.
 
-* If you're lubing linear switches, almost everyone recommends you start with Krytox 205g0. But any of the lubes listed above might suit you depend on your preference. (Except dialectric grease - not recommended because it's too thick.)
+* If you're lubing linear switches, almost everyone recommends you start with Krytox 205g0. However, any of the lubes listed above might suit you depend on your preference, except dialectric grease or Krytox XHT-BDZ. These are not recommended because they're too thick; they are better for stabs.
 * If you're lubing tactile switches, you *can* use Krytox 205g0, but be aware that it will significantly affect the tactility of the switch. I have a lot more I can say about lubing tactile switches, as they're my favorite type of switch.
     * First, EVERYONE'S first piece of advice is don't lube the legs of the stem, regardless of what type of lube you're using.
     * As for which lube to use, I personally recommend Tribosys 3203 if you want to preserve as much of the tactile feel as possible. It is the thinnest out of the top 3 most common switch lubes, which are 205g0, 3204, and 3203.
@@ -68,7 +68,7 @@ The correct answer is: whichever one you like the feel of best.  But that's a me
 
 Special notes about springs:
 * If you're OK with buying multiple types of lube, most enthusiasts would recommend you use oil like Krytox 105 or Krytox 106 on your springs.
-* If you're not ready to make mulitple purchases yet, you can brush-lube or donut-dip using the same lube as you used on your switches and that will work just fine.  (More on those techniques later, if you don't know what they mean.)
+* If you're not ready to make multiple purchases yet, you can brush-lube or donut-dip using the same lube as you used on your switches and that will work just fine.  (More on those techniques later, if you don't know what they mean.)
 
 Special notes about stabs:
 * Many people prefer a thicker lube on their stabilizers than they do on their switches. So, the best choices from the list above for stabilizers are: Krytox 205g0, Krytox XHT-BDZ, or dialectic grease.
@@ -87,12 +87,12 @@ I am located in the US, and I personally recommend 3dkeebs, dangkeebs, and divin
 
 Set aside a few hours for lubing all your switches. Put on some music or some TV if you need background entertainment.  The amount of time it will actually take depends on your speed (duh) but also how many switches you're trying to lube. Lubing switches for a 40% board will obviously be a lot faster than lubing switches for a TKL or an 1800.
 
-Here are a few general methods for switch lubing:
-* Brush lubing. Use your thin paintbrush to spread a thin layer of lube evenly across the surface you are lubing. Thin = you should be able to tell it's there when you look at it, but just barely. It shouldn't be a completely opaque layer.
+First, here are descriptions of the common methods for switch lubing:
+* **Brush lubing.** Use your thin paintbrush to spread a thin layer of lube evenly across the surface you are lubing. Thin = you should be able to tell it's there when you look at it, but just barely. It shouldn't be a completely opaque layer.
     * When brush lubing stems or springs, a gripping tool or a set of tweezers is very handy!
-* Donut dipping. For springs. With your lube in a tub or on a small surface, holding one end of a spring with your fingers / a gripping tool / tweezers, dip the other end of the spring into the lube until it covers the tightly coiled part at the bottom of the spring. Pull it out of the lube. If there's a lot, you might need to wipe some off. If the lube is covering the hole at the bottom of the spring, blow on it to make sure the hole in the spring is cleared.  The idea here is that the lubed end goes in the bottom of the switch, and as you press the switch more and more, it will compress down to the lube and then spread evenly over the switch.
-* Bag lubing. For springs. Put all of your springs in a sealable plastic bag. Put approximately one drop of Krytox 105 or 106 oil in the bag for every 10 switches. Seal the bag and shake until the oil is evenly distributed.
-* Tub lubing. For either springs or stems. Put all your stems/springs in a small tub with a lid. Use your brush or another small instrument to smear some lube on the sides of the tub. (This will work with thicker lubes too, not just oils.) Put the lid on the tub and shake until the lube is evenly distributed.
+* **Donut dipping. (for springs)** With your lube in a tub or on a small surface, holding one end of a spring with your fingers / a gripping tool / tweezers, dip the other end of the spring into the lube until it covers the tightly coiled part at the bottom of the spring. Pull it out of the lube. If there's a lot, you might need to wipe some off. If the lube is covering the hole at the bottom of the spring, blow on it to make sure the hole in the spring is cleared.  The idea here is that the lubed end goes in the bottom of the switch, and as you press the switch more and more, it will compress down to the lube and then spread evenly over the switch.
+* **Bag lubing (for springs)** Put all of your springs in a sealable plastic bag. Put approximately one drop of Krytox 105 or 106 oil in the bag for every 10 switches. Seal the bag and shake until the oil is evenly distributed.
+* **Tub lubing. (for either springs or stems)** Put all your stems/springs in a small tub with a lid. Use your brush or another small instrument to smear some lube on the sides of the tub. (This will work with thicker lubes too, not just oils.) Put the lid on the tub and shake until the lube is evenly distributed.
 
 With all of these methods, **BE CAREFUL NOT TO OVERLUBE**. You can always add more if you find the switches are still scratchy or pingy or don't feel as smooth as you'd like. But it is a huge pain to have to thoroughly clean all the components and then start over from scratch because there's too much lube.
 
