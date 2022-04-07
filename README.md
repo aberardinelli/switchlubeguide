@@ -102,13 +102,13 @@ Actual recommended steps for lubing:
 1. Now do the rest of your lubing.
     1. Some people like to do the switch-by-switch approach of doing all four components for one switch, putting it back together, then moving onto the next switch.
     1. I prefer to do all of the same type of piece, then the next piece, etc.
-1. No matter which big-picture approach you use, bottom to top works best. Start by lubing the rails of the bottom housing. If you're lubing linear switches that have a lot of leaf ping, you can also lube the leaf.
-1. Next lube your spring (if you haven't already). If you're bag/tub lubing, place one spring from the bag/tub in each bottom housing. If you're brush lubing or donut dipping, lube each spring then place it in a bottom housing as you finish it.
+1. No matter which big-picture approach you use, bottom to top works best. Start by lubing the rails of the bottom housing. Lightly lube the inside and outside of the shaft in the middle. If you're lubing linear switches that have a lot of leaf ping, you can also lube the metal leaf. (Lubing the leaf not recommended for tactile switches.)
+1. Next deal with your spring. If you bag/tub lubed your springs in step 2, place one already-lubed spring from the bag/tub in each bottom housing. If you're brush lubing or donut dipping, lube each spring as described in the method above, then place it in a bottom housing as you finish it.
 1. Now lube the stem. If brush lubing, hold the part of the stem that looks like a + with your fingers or a gripping tool.
     1. If you're lubing linear switches, you can apply a thin layer of lube to all of the surfaces: sides, front, back, legs, pole.
     1. If you're lubing tactile switches and you want to preserve tactility, just lube the sides and the pole.
 1. Place the stem in the spring, with the legs oriented toward the side of the bottom housing with the metal leaf.
-1. If you're going to use switch films NOW is the right time to place them. Align them with the outer border of the bottom housing. Tweezers are really helpful here!
-1. Finally, lube the side rails of the top housing. Place the top housing on top over the stem/spring/bottom housing combo and press down until all side tabs click. (Two tabs on Kailh style switches; four tabs for other MX style switches.)
+1. If you're going to use switch films, NOW is the right time to place them. Align them with the outer border of the bottom housing, one in each switch. Tweezers are really helpful here!
+1. Finally, lube the side rails of the top housing. Place the top housing over the stem/spring/bottom housing combo and press down until all side tabs click. (Two tabs on Kailh style switches; four tabs for other MX style switches.) It's recommended you also press down on the stem to depress the spring at the same time, to help with top-bottom alignment.
 
-The first time you lube switches, I recommend doing one or two start-to-finish, then testing them out and comparing them to stock switches before doing the rest. This way, you can tell what a difference your hard work will make. You can identify if the switch feels sluggish (overlubed) or still has scratch/ping or isn't smooth enough (underlubed). Adjust until you get to a good level of lubing, then do that for all the rest of your switches.
+The first time you lube switches, I recommend doing one or two start-to-finish, then testing them out and comparing them to stock switches before doing the rest. This lets you see, feel, and hear what a difference your hard work will make! You can identify if the switch feels sluggish (overlubed) or still has scratch/ping or isn't smooth enough (underlubed). Adjust until you get to a good level of lubing, then do that for all the rest of your switches.
